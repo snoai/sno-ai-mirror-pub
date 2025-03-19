@@ -1,0 +1,10 @@
+{
+  "review_prompt": "Rate or write a review",
+  "review_title": "Add a headline",
+  "review_placeholder_title": "What's most important to know?",
+  "review_placeholder": "Share your experience...",
+  "review_placeholder2": "Where and how you use it...",
+  "review_submit": "Submit",
+  "review_too_short": "Please enter at least 6 characters",
+  "review_too_long": "Please enter no more than 2048 characters"
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Unify Home",
+  "description": "This is the Unify Home page",
+  "landing_title": "A new creator platform for human and Ai Agents",
+  "landing_subtitle": "Searching, Note-taking, Orchestrating AI agents in one place.",
+  "landing_typewriter1": "Elevate Your Data: ☁️Store,📊Publish,🔗Connect. Continuously Reuse with Ai.",
+  "landing_typewriter2": "Ai Assistant🤖 that Understand You: Effortless, Intuitive, and Always On Point.",
+  "landing_enter_button": "Enter Unify",
+
+  "new_page": "New Sno Page",
+
+  "light_theme": "Light",
+  "dark_theme": "Dark",
+  "system_theme": "System",
+
+  "creating": "Generating a new one...",
+  "creation_created": "Successfully created!",
+  "creation_error": "Failed to create a new one.",
+
+  "delete_button": "Delete",
+  "deleting": "Moving to archive...",
+  "creation_deleted": "Safe moved to archive!",
+  "delete_error": "Failed to delete this one.",
+
+  "restore_button": "Restore",
+  "restoring": "Restoring from archive...",
+  "creation_restored": "Safe restored!",
+  "restore_error": "Failed to restore this one.",
+
+  "share_button": "Share",
+  "publish_button": "Publish",
+  "publish_title": "Publish this creation?",
+  "publish_text": "Share your work with others.",
+  "publishing": "Publishing...",
+  "creation_published": "Published successfully",
+  "publish_error": "Failed to publish",
+  "live_message": "This is live now",
+
+  "unpublish_button": "Un-publish",
+  "unpublishing": "Un-publishing...",
+  "creation_unpublished": "Made private successfully",
+  "unpublish_error": "Failed to un-publish",
+
+  "filter_by_title": "Filter by title...",
+  "not_found": "Nothing found",
+
+  "search_button": "Search",
+  "setting_button": "Settings",
+
+  "room_empty_msg": "No room found",
+  "agents_empty_msg": "No agents found",
+  "squads_empty_msg": "No orchestrations found",
+  "cft_empty_msg": "No Sno pages...",
+  "roomId_not_valid": "Invalid roomId",
+
+
+  "submenu_edit_by": "Last edit by: ",
+  "submenu_delete": "Safe delete",
+
+  "confirm_title": "Are you absolutely sure?",
+  "confirm_text": "You won't be able to revert this action",
+  "confirm_yes": "Confirm",
+  "confirm_no": "Cancel",
+  "permanently_delete": "Delete permanently",
+
+  "search_placeholder": "Search Your Creations, Flows, and Templates",
+  "search_no_result": "No results found.",
+  "search_heading": "Creation, Flow, Template",
+
+  "setting_title": "My Settings",
+  "setting_appearance": "Appearance",
+  "setting_appearance_label": "Customize the look of Unify",
+  "setting_language": "Language",
+  "setting_language_label": "Change the language of Unify",
+
+  "intrash_msg": "This is in the Trash",
+
+  "add_icon": "Add Icon",
+  "add_cover": "Add Cover",
+
+  "cover_title": "Cover Image",
+  "upload_message": "Click or drag file to this area to upload",
+  "upload_error": "Upload failed",
+  "upload_success": "Upload success",
+  "upload_size_error": "File size should be less than 2MB",
+  "upload_type_error": "File type should be jpg, jpeg, png, or gif",
+  "cover_change": "Change Cover",
+  "cover_remove": "Remove Cover",
+
+  "dashboard_title": "Dashboard",
+  "dashboard_subtitle": "Continue the work and see the stats",
+  "dashboard_room_subtitles": "Your rooms and workspaces",
+  "dashboard_recent_subtitles": "Your recent pages,agents,squads",
+  "dashboard_inbox_subtitles": "Your updates and status",
+
+  "room_title": "Rooms",
+  "room_subtitle": "Create and manage your Rooms",
+
+  "agent_title": "Agents",
+  "agent_subtitle": "Create and manage your Ai Agents",
+
+  "squad_title": "Squads",
+  "squad_subtitle": "Create and manage your Ai Agent Squads",
+
+  "new_room_dialog_trigger" : "➕New Room",
+  "new_room_dialog_title": "⚙️ Set up your room and context",
+  "new_room_dialog_description": "Configure your room preference and how AI agents behave.",
+
+  "new_agent_dialog_trigger" : "➕New Agent",
+  "new_agent_dialog_title": "⚙️ Set up your Agent and Role",
+  "new_agent_dialog_description": "Configure your agent preference.",
+
+  "new_squad_dialog_trigger" : "➕New Squad",
+  "new_squad_dialog_title": "⚙️ Set up your Squad",
+  "new_squad_dialog_description": "Configure squad with what agents to team up.",
+
+  "room_title_input": "Title",
+  "room_description": "Description",
+  "room_type": "Type",
+  "dialog_selection_placeholder": "Select...",
+  "context_input": "Context",
+
+  "longterm_mem": "Agents Long Term Memory",
+  "working_mem": "Agents Working Memory",
+  "self_improve": "Agents Self-Improving",
+
+  "valid_error" : "Please enter a valid value",
+  "noticeText": "The context enter here will be the default context for all the agents in this room.",
+  "confirmButtonText": "Confirm",
+  "cancelButtonText": "Cancel",
+
+  "new_cft_name": "Untitled Page",
+  "dashboard": "Dashboard",
+  "agents_list_msg": "My Agents",
+  "squads_list_msg": "My Squads",
+  "rooms_list_msg": "My Rooms",
+
+  "new_script": "New Script",
+  "new_note": "New Note",
+  "new_orchestration": "New Orchestration",
+
+  "get_help": "Get Help",
+
+  "mermaid_type_title": "Diagram Reference",
+  "write_mermaid_placeholder": "Write your mermaid code here...",
+
+  "write_code_placeholder": "Write your code here...",
+  "select_language": "Select a language",
+  "web_development": "Web Development",
+  "markup_and_data_languages": "Markup and Data Languages",
+  "scripting_and_query_languages": "Scripting and Query Languages",
+  
+  "mermaid_block_hint": "Insert a mermaid diagram block.",
+  "code_block_hint": "Insert a code block.",
+  "status_block_hint": "Insert a status block.",
+  "ai_script_block_hint": "Insert a script block."
+}

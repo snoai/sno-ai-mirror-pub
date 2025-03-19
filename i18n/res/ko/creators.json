@@ -1,0 +1,9 @@
+{
+  "title": "크리에이터 허브",
+  "description": "크리에이터의 커뮤니티 큐레이트 목록입니다.",
+  "creator_follow_button": "팔로우",
+  "creator_unfollow_button": "언팔로우",
+  "creator_share_button": "이 크리에이터 공유하기",
+  "creator_link": "크리에이터 링크:",
+  "creator_last_updated": "최종 업데이트:"
+}

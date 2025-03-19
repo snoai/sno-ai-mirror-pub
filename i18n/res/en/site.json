@@ -1,0 +1,48 @@
+{
+  "_des": "sno.ai site top level resource. This is the root of the site. It contains the top level navigation and the hero section.",
+  "site": {
+    "title": "Sno.ai | 10x Your Creativity and Productivity with AI Agent Team and Workspace",
+    "description": "Sno Ai: 10X Your Creativity and Productivity with Human + AI Co-Pilot Space. Discover and create innovative content and applications seamlessly. Blend the best of human creativity and AI efficiency."
+  },
+  "hero_title": "10x Your Creativity and Productivity with AI Agent Team and Workspace",
+  "hero_description": "Don't just generate. Create better with AI Agents",
+  "alpha_title": "Alpha Stage",
+  "alpha_description": "We are currently in close Alpha stage. Join us to be the first to experience the future of Human + AI co-pilot space.",
+  "alpha_button": "Join the wait list",
+  "alpha_email_placeholder": "Enter your email address",
+  "alpha_email_invalid": "Please enter a valid email address",
+  "login_button": "Log in",
+  "lang_selection": "Select language",
+  "light_theme": "Light",
+  "dark_theme": "Dark",
+  "system_theme": "System",
+
+  "navi": {
+    "unify": "Unify",
+    "search": "Search",
+    "about": "About us",
+    "platform": "Platform",
+    "creators": "Creators",
+    "gpts": "Agents Hub",
+    "pricing": "Pricing",
+    "join": "Join",
+    "community": "Community",
+    "footerDiv1": "Company",
+    "jobs": "Careers",
+    "press": "Press & News",
+    "partnership": "Partnership",
+    "contact": "Contact",
+    "footerDiv2": "Support",
+    "faq": "FAQ",
+    "help": "Help & Support",
+    "trust": "Trust & Safety",
+    "footerDiv3": "Community",
+    "affiliates": "Affiliates",
+    "blog": "Blog",
+    "influencers": "Influencers",
+    "invite": "Invite a Friend",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "security": "Security"
+  }
+}
