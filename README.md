@@ -1,28 +1,31 @@
-# Sno.ai Mirror Repository
+# Sno.ai Public Resources Mirror
 
-This repository contains public resources for the Sno.ai project. We welcome contributions to the available components.
+This repository contains public resources for Sno.ai projects.
 
 ## Structure
 
-This repository is organized into different components of the Sno.ai project that are open for public contributions:
+- `i18n/` - Internationalization resources
+  - Language directories (en, zh, ja, etc.)
+  - Translation files in JSON format
+  - Scripts for managing translations
 
-- [i18n](./i18n): Internationalization resources
-- *(more components will be added in the future)*
+## Usage
 
-## Components
+This repository is designed to be used as a Git submodule in other projects. To include it in your project:
 
-### i18n Resources
-
-The `i18n` directory contains all translation resources for the Sno.ai project. See the [i18n README](./i18n/README.md) for more details on contributing translations.
-
-## Future Components
-
-In the future, we plan to make more components available for public contributions. Each component will have its own directory and documentation.
+```bash
+git submodule add https://github.com/YOUR_USERNAME/Sno-Ai-Pub-Mirror.git
+git submodule update --init --recursive
+```
 
 ## Contributing
 
-Please see the specific README and CONTRIBUTING files in each component's directory for guidelines on how to contribute.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## License
 
-*(Add appropriate license information)* 
+This project is licensed under the MIT License - see the LICENSE file for details 
