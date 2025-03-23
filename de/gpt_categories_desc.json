@@ -1,0 +1,26 @@
+{
+  "all": "Alle Kategorien...",
+  "virtual assistant": "Ihr digitaler Begleiter, der KI nutzt, um Ihre alltäglichen Aufgaben zu vereinfachen und zu optimieren.",
+  "productivity": "Steigern Sie Ihre Effizienz mit KI-Tools, die darauf ausgelegt sind, Ihre Produktivität zu optimieren und Ihren Arbeitsablauf zu vereinfachen.",
+  "images": "Revolutionäre KI-gesteuerte Tools, die Ihre visuellen Ideen mit atemberaubenden Bildern zum Leben erwecken.",
+  "learning": "Bereichern Sie Ihre Bildung mit KI-gestütztem Coaching und interaktiven Lernlösungen.",
+  "coding": "Programmieren Sie intelligenter, nicht härter, mit KI-Co-Piloten, die Ihre Programmierreise leiten.",
+  "writing": "Entfesseln Sie Ihren inneren Autor mit KI-Tools, die Kreativität und Schreibflüssigkeit verbessern.",
+  "research": "Navigieren Sie durch den Ozean der Informationen mit KI-Forschungsassistenten, die die Entdeckung erleichtern.",
+  "social media": "Heben Sie Ihre Online-Präsenz mit KI-Tools hervor, die darauf ausgelegt sind, Ihre Social-Media-Strategie zu stärken.",
+  "chatbots": "Interagieren Sie mit modernsten GPT-betriebenen Chatbots, die die digitale Konversation verwandeln.",
+  "marketing": "Verfeinern Sie Ihren Marketingvorteil mit der analytischen Stärke der KI und erstellen Sie Kampagnen, die überzeugen.",
+  "seo": "Optimieren Sie Ihre Online-Sichtbarkeit mit den aufschlussreichen SEO-Strategien und Tools der KI.",
+  "finance": "Navigieren Sie durch Finanzlandschaften mit KI-Tools, die komplexe Entscheidungen einfacher und intelligenter machen.",
+  "playful": "Entdecken Sie die leichtere Seite der KI mit verspielten Freunden, immersiven Spielen und virtuellen Begleitern.",
+  "translation": "Überwinden Sie mühelos Sprachbarrieren mit den fortgeschrittenen Übersetzungsfähigkeiten der KI.",
+  "health": "Ihr KI-Gesundheitsberater, der maßgeschneiderte Ratschläge und Einblicke für einen gesünderen Lebensstil bietet.",
+  "travel": "Reisen Sie intelligenter mit KI: Ihr ultimativer Assistent für nahtlose Reisen und Abenteuer.",
+  "design": "Entfesseln Sie Ihr kreatives Potenzial mit KI-gesteuerten Design-Tools, wo Inspiration auf Innovation trifft.",
+  "stats": {
+    "index": " Gesamtindex: ",
+    "gpts": " GPTs /  ",
+    "creators": " Ersteller /  ",
+    "runs": " Durchläufe."
+  }
+}

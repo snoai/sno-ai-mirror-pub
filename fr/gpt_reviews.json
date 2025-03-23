@@ -1,0 +1,10 @@
+{
+  "review_prompt": "Évaluer ou écrire un avis",
+  "review_title": "Ajouter un titre",
+  "review_placeholder_title": "Qu'est-ce qui est le plus important à savoir ?",
+  "review_placeholder": "Partagez votre expérience...",
+  "review_placeholder2": "Où et comment vous l'utilisez...",
+  "review_submit": "Soumettre",
+  "review_too_short": "Veuillez saisir au moins 6 caractères",
+  "review_too_long": "Veuillez ne pas saisir plus de 2048 caractères"
+}

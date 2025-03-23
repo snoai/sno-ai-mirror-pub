@@ -1,0 +1,159 @@
+{
+  "title": "Unify首頁",
+  "description": "這是Unify首頁",
+  "landing_title": "新一代創作平台，專為人類和AI代理設計",
+  "landing_subtitle": "搜尋、記筆記、協調AI代理，一站式體驗。",
+  "landing_typewriter1": "提升您的資料：☁️存儲，📊發布，🔗連接。與AI持續複用。",
+  "landing_typewriter2": "懂你的AI助手🤖：輕鬆，直觀，總是精準。",
+  "landing_enter_button": "進入Unify",
+
+  "new_creation": "新建",
+  "new_cft_name": "未命名",
+  "agents_list": "代理列表",
+
+  "light_theme": "淺色",
+  "dark_theme": "深色",
+  "system_theme": "系統",
+
+  "creating": "正在生成新的...",
+  "creation_created": "新草稿已創建！",
+  "creation_error": "新建失敗。",
+
+  "delete_button": "刪除",
+  "deleting": "正在移到...",
+  "creation_deleted": "安全地移到刪除區！",
+  "delete_error": "刪除失敗。",
+
+  "restore_button": "恢復",
+  "restoring": "正在從刪除區中恢復...",
+  "creation_restored": "安全恢復！",
+  "restore_error": "恢復失敗。",
+
+  "share_button": "分享",
+  "publish_button": "發布",
+  "publish_title": "發布這個創作？",
+  "publish_text": "與他人分享您的作品。",
+  "publishing": "正在發布...",
+  "creation_published": "發布成功",
+  "publish_error": "發布失敗",
+  "live_message": "現在已發布",
+
+  "unpublish_button": "取消發布",
+  "unpublishing": "正在取消發布...",
+  "creation_unpublished": "成功設為私有",
+  "unpublish_error": "取消發布失敗",
+
+  "filter_by_title": "按標題篩選...",
+  "not_found": "未找到",
+
+  "search_button": "搜尋",
+  "setting_button": "設置",
+
+  "empty_msg": "裡面是空的",
+
+  "submenu_edit_by": "最後編輯者：",
+  "submenu_delete": "安全刪除",
+
+  "confirm_title": "你確定嗎？",
+  "confirm_text": "你將無法撤銷此操作",
+  "confirm_yes": "確認",
+  "confirm_no": "取消",
+  "permanently_delete": "永久刪除",
+
+  "search_placeholder": "搜尋您的創作、流程和模板",
+  "search_no_result": "未找到結果。",
+  "search_heading": "創作、流程、模板",
+
+  "setting_title": "我的設置",
+  "setting_appearance": "外觀",
+  "setting_appearance_label": "自訂Unify的外觀",
+  "setting_language": "語言",
+  "setting_language_label": "更改Unify的語言",
+
+  "intrash_msg": "這在刪除區裡",
+
+  "add_icon": "添加圖標",
+  "add_cover": "添加封面",
+
+  "cover_title": "封面圖片",
+  "upload_message": "點擊或拖動文件到此區域上傳",
+  "upload_error": "上傳失敗",
+  "upload_success": "上傳成功",
+  "upload_size_error": "文件大小應小於2MB",
+  "upload_type_error": "文件類型應為jpg, jpeg, png或gif",
+  "cover_change": "更換封面",
+  "cover_remove": "移除封面",
+
+  "room_empty_msg": "未找到房間",
+  "agents_empty_msg": "未找到代理",
+  "squads_empty_msg": "未找到協作",
+  "cft_empty_msg": "未找到Sno頁面...",
+  "roomId_not_valid": "無效的roomId",
+
+  "dashboard_title": "儀表板",
+  "dashboard_subtitle": "繼續工作並查看統計數據",
+  "dashboard_room_subtitles": "您的房間和工作區",
+  "dashboard_recent_subtitles": "您最近的頁面、代理、協作",
+  "dashboard_inbox_subtitles": "您的更新和狀態",
+
+  "room_title": "房間",
+  "room_subtitle": "創建和管理您的房間",
+
+  "agent_title": "代理",
+  "agent_subtitle": "創建和管理您的AI代理",
+
+  "squad_title": "協作",
+  "squad_subtitle": "創建和管理您的AI代理協作",
+
+  "new_room_dialog_trigger": "➕新房間",
+  "new_room_dialog_title": "⚙️ 設置您的房間和上下文",
+  "new_room_dialog_description": "配置您的房間偏好和AI代理的行為。",
+
+  "new_agent_dialog_trigger": "➕新代理",
+  "new_agent_dialog_title": "⚙️ 設置您的代理和角色",
+  "new_agent_dialog_description": "配置您的代理偏好。",
+
+  "new_squad_dialog_trigger": "➕新協作",
+  "new_squad_dialog_title": "⚙️ 設置您的協作",
+  "new_squad_dialog_description": "配置協作中的代理團隊。",
+
+  "room_title_input": "標題",
+  "room_description": "描述",
+  "room_type": "類型",
+  "dialog_selection_placeholder": "選擇...",
+  "context_input": "上下文",
+
+  "longterm_mem": "代理長期記憶",
+  "working_mem": "代理工作記憶",
+  "self_improve": "代理自我改進",
+
+  "valid_error": "請輸入有效值",
+  "noticeText": "此處輸入的上下文將是此房間中所有代理的默認上下文。",
+  "confirmButtonText": "確認",
+  "cancelButtonText": "取消",
+
+  "dashboard": "儀表板",
+  "agents_list_msg": "我的代理",
+  "squads_list_msg": "我的協作",
+  "rooms_list_msg": "我的房間",
+
+  "new_script": "新腳本",
+  "new_note": "新筆記",
+  "new_orchestration": "新協作",
+
+  "get_help": "獲取幫助",
+
+  "mermaid_type_title": "圖表參考",
+  "write_mermaid_placeholder": "在此處編寫您的mermaid代碼...",
+
+  "write_code_placeholder": "在此處編寫您的代碼...",
+  "select_language": "選擇語言",
+  "web_development": "網頁開發",
+  "markup_and_data_languages": "標記和數據語言",
+  "scripting_and_query_languages": "腳本和查詢語言",
+
+  "mermaid_block_hint": "插入mermaid圖表塊。",
+  "code_block_hint": "插入代碼塊。",
+  "status_block_hint": "插入狀態塊。",
+  "ai_script_block_hint": "插入腳本塊。"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Centro de Creadores",
+  "description": "Una lista de creadores curada por la comunidad.",
+  "creator_follow_button": "Seguir",
+  "creator_unfollow_button": "Dejar de seguir",
+  "creator_share_button": "Compartir este creador",
+  "creator_link": "Enlace del creador:",
+  "creator_last_updated": "Última actualización:"
+}

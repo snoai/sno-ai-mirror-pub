@@ -1,0 +1,164 @@
+{
+  "title": "Unify-Startseite",
+  "description": "Dies ist die Unify-Startseite",
+
+  "landing_title": "Eine neue Kreativplattform für Menschen und KI-Agenten",
+  "landing_subtitle": "Suchen, Notizen machen, KI-Agenten orchestrieren – alles an einem Ort.",
+  "landing_typewriter1": "Verbessere deine Daten: ☁️Speichern,📊Veröffentlichen,🔗Verbinden. Kontinuierliche Wiederverwendung mit KI.",
+  "landing_typewriter2": "KI-Assistent🤖, der dich versteht: Mühelos, intuitiv und immer treffsicher.",
+  "landing_enter_button": "Unify betreten",
+
+  "new_creation": "Neue Kreation",
+  "new_cft_name": "Unbenannt",
+  "agents_list": "Agentenliste",
+
+  "light_theme": "Hell",
+  "dark_theme": "Dunkel",
+  "system_theme": "System",
+
+  "creating": "Erstelle eine Neue...",
+  "creation_created": "Neuer Entwurf erstellt!",
+  "creation_error": "Erstellung fehlgeschlagen.",
+
+  "delete_button": "Löschen",
+  "deleting": "In Archiv verschieben...",
+  "creation_deleted": "Sicher ins Archiv verschoben!",
+  "delete_error": "Löschen fehlgeschlagen.",
+
+  "restore_button": "Wiederherstellen",
+  "restoring": "Aus Archiv wiederherstellen...",
+  "creation_restored": "Sicher wiederhergestellt!",
+  "restore_error": "Wiederherstellung fehlgeschlagen.",
+
+  "share_button": "Teilen",
+  "publish_button": "Veröffentlichen",
+  "publish_title": "Diese Kreation veröffentlichen?",
+  "publish_text": "Teile deine Arbeit mit anderen.",
+  "publishing": "Veröffentliche...",
+  "creation_published": "Erfolgreich veröffentlicht",
+  "publish_error": "Veröffentlichung fehlgeschlagen",
+  "live_message": "Dies ist jetzt live",
+
+  "unpublish_button": "Veröffentlichung zurückziehen",
+  "unpublishing": "Veröffentlichung wird zurückgezogen...",
+  "creation_unpublished": "Erfolgreich privat gemacht",
+  "unpublish_error": "Veröffentlichung zurückziehen fehlgeschlagen",
+
+  "filter_by_title": "Nach Titel filtern...",
+  "not_found": "Nichts gefunden",
+
+  "search_button": "Suche",
+  "setting_button": "Einstellungen",
+
+  "empty_msg": "Leer von innen",
+
+  "submenu_edit_by": "Letzte Bearbeitung von: ",
+  "submenu_delete": "Sicher löschen",
+
+  "confirm_title": "Bist du dir absolut sicher?",
+  "confirm_text": "Diese Aktion kann nicht rückgängig gemacht werden",
+  "confirm_yes": "Bestätigen",
+  "confirm_no": "Abbrechen",
+  "permanently_delete": "Dauerhaft löschen",
+
+  "search_placeholder": "Suche nach deinen Kreationen, Flows und Vorlagen",
+  "search_no_result": "Keine Ergebnisse gefunden.",
+  "search_heading": "Kreation, Flow, Vorlage",
+
+  "setting_title": "Meine Einstellungen",
+  "setting_appearance": "Aussehen",
+  "setting_appearance_label": "Passen Sie das Aussehen von Unify an",
+  "setting_language": "Sprache",
+  "setting_language_label": "Ändern Sie die Sprache von Unify",
+
+  "intrash_msg": "Dies befindet sich im Papierkorb",
+
+  "add_icon": "Icon hinzufügen",
+  "add_cover": "Cover hinzufügen",
+
+  "cover_title": "Cover-Bild",
+  "upload_message": "Klicken oder ziehen Sie Dateien in diesen Bereich zum Hochladen",
+  "upload_error": "Upload fehlgeschlagen",
+  "upload_success": "Upload erfolgreich",
+  "upload_size_error": "Dateigröße sollte kleiner als 2MB sein",
+  "upload_type_error": "Dateityp sollte jpg, jpeg, png oder gif sein",
+  "cover_change": "Cover ändern",
+  "cover_remove": "Cover entfernen",
+"new_page": "Neue Sno-Seite",
+
+  "room_empty_msg": "Kein Raum gefunden",
+  "agents_empty_msg": "Keine Agenten gefunden",
+  "squads_empty_msg": "Keine Orchestrierungen gefunden",
+  "cft_empty_msg": "Keine Sno-Seiten...",
+  "roomId_not_valid": "Ungültige Raum-ID",
+
+  "dashboard_title": "Dashboard",
+  "dashboard_subtitle": "Arbeiten Sie weiter und sehen Sie die Statistiken",
+  "dashboard_room_subtitles": "Ihre Räume und Arbeitsbereiche",
+  "dashboard_recent_subtitles": "Ihre letzten Seiten, Agenten, Squads",
+  "dashboard_inbox_subtitles": "Ihre Updates und Status",
+
+  "room_title": "Räume",
+  "room_subtitle": "Erstellen und verwalten Sie Ihre Räume",
+
+  "agent_title": "Agenten",
+  "agent_subtitle": "Erstellen und verwalten Sie Ihre KI-Agenten",
+
+  "squad_title": "Squads",
+  "squad_subtitle": "Erstellen und verwalten Sie Ihre KI-Agenten-Squads",
+
+  "new_room_dialog_trigger": "➕Neuer Raum",
+  "new_room_dialog_title": "⚙️ Richten Sie Ihren Raum und Kontext ein",
+  "new_room_dialog_description": "Konfigurieren Sie Ihre Raumeinstellungen und wie sich KI-Agenten verhalten.",
+
+  "new_agent_dialog_trigger": "➕Neuer Agent",
+  "new_agent_dialog_title": "⚙️ Richten Sie Ihren Agenten und Rolle ein",
+  "new_agent_dialog_description": "Konfigurieren Sie Ihre Agenteneinstellungen.",
+
+  "new_squad_dialog_trigger": "➕Neuer Squad",
+  "new_squad_dialog_title": "⚙️ Richten Sie Ihren Squad ein",
+  "new_squad_dialog_description": "Konfigurieren Sie den Squad mit den Agenten, die zusammenarbeiten sollen.",
+
+  "room_title_input": "Titel",
+  "room_description": "Beschreibung",
+  "room_type": "Typ",
+  "dialog_selection_placeholder": "Auswählen...",
+  "context_input": "Kontext",
+
+  "longterm_mem": "Langzeitgedächtnis der Agenten",
+  "working_mem": "Arbeitsgedächtnis der Agenten",
+  "self_improve": "Selbstverbesserung der Agenten",
+
+  "valid_error": "Bitte geben Sie einen gültigen Wert ein",
+  "noticeText": "Der hier eingegebene Kontext wird der Standardkontext für alle Agenten in diesem Raum sein.",
+  "confirmButtonText": "Bestätigen",
+  "cancelButtonText": "Abbrechen",
+
+  "dashboard": "Dashboard",
+  "agents_list_msg": "Meine Agenten",
+  "squads_list_msg": "Meine Squads",
+  "rooms_list_msg": "Meine Räume",
+
+  "new_script": "Neues Skript",
+  "new_note": "Neue Notiz",
+  "new_orchestration": "Neue Orchestrierung",
+
+  "get_help": "Hilfe erhalten",
+
+  "mermaid_type_title": "Diagrammreferenz",
+  "write_mermaid_placeholder": "Schreiben Sie hier Ihren Mermaid-Code...",
+
+  "write_code_placeholder": "Schreiben Sie hier Ihren Code...",
+  "select_language": "Sprache auswählen",
+  "web_development": "Webentwicklung",
+  "markup_and_data_languages": "Markup- und Datensprachen",
+  "scripting_and_query_languages": "Skript- und Abfragesprachen",
+
+  "mermaid_block_hint": "Fügen Sie einen Mermaid-Diagrammblock ein.",
+  "code_block_hint": "Fügen Sie einen Codeblock ein.",
+  "status_block_hint": "Fügen Sie einen Statusblock ein.",
+  "ai_script_block_hint": "Fügen Sie einen Skriptblock ein."
+
+  
+
+}

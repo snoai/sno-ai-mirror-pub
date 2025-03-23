@@ -1,0 +1,9 @@
+{
+  "title": "クリエイターズハブ",
+  "description": "コミュニティによってキュレーションされたクリエイターのリスト。",
+  "creator_follow_button": "フォロー",
+  "creator_unfollow_button": "フォローを解除",
+  "creator_share_button": "このクリエイターを共有",
+  "creator_link": "クリエイターリンク:",
+  "creator_last_updated": "最終更新:"
+}

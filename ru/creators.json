@@ -1,0 +1,9 @@
+{
+  "title": "Центр Творцов",
+  "description": "Список создателей, составленный сообществом.",
+  "creator_follow_button": "Подписаться",
+  "creator_unfollow_button": "Отписаться",
+  "creator_share_button": "Поделиться этим создателем",
+  "creator_link": "Ссылка на создателя:",
+  "creator_last_updated": "Последнее обновление:"
+}

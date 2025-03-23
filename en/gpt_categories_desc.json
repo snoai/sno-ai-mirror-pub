@@ -1,0 +1,26 @@
+{
+  "all": "All categories...",
+  "virtual assistant": "Your digital sidekick, leveraging AI to streamline and simplify your everyday tasks.",
+  "productivity": "Boost your efficiency with AI tools designed to optimize your productivity and streamline your workflow.",
+  "images": "Revolutionary AI-driven tools that bring your visual ideas to life with stunning imagery.",
+  "learning": "Empower your education with AI-enhanced coaching and interactive learning solutions.",
+  "coding": "Code smarter, not harder, with AI co-pilots guiding your programming journey.",
+  "writing": "Unleash your inner author with AI tools that enhance creativity and writing fluency.",
+  "research": "Navigate the ocean of information with AI research assistants, making discovery a breeze.",
+  "social media": "Elevate your online presence with AI tools designed to supercharge your social media strategy.",
+  "chatbots": "Engage with cutting-edge GPT-powered chatbots, transforming digital conversation.",
+  "marketing": "Refine your marketing edge with AI's analytical prowess, crafting campaigns that resonate.",
+  "seo": "Optimize your online visibility with AI's insightful SEO strategies and tools.",
+  "finance": "Navigate financial landscapes with AI tools, making complex decisions simpler and smarter.",
+  "playful": "Discover the lighter side of AI with playful pals, immersive games, and virtual companions.",
+  "translation": "Bridge language barriers effortlessly with AI's advanced translation capabilities.",
+  "health": "Your AI health advisor, offering tailored advice and insights for a healthier lifestyle.",
+  "travel": "Travel smarter with AI: your ultimate assistant for seamless journeys and adventures.",
+  "design": "Unlock your creative potential with AI-driven design tools, where inspiration meets innovation.",
+  "stats": {
+    "index": " index total: ",
+    "gpts": " GPTs /  ",
+    "creators": " Creators /  ",
+    "runs": " Runs."
+  }
+}
